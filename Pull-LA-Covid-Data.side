@@ -1,0 +1,209 @@
+{
+  "id": "132136d6-e132-40cf-9c78-217112f59eb6",
+  "version": "2.0",
+  "name": "Pull-LA-Covid-Data",
+  "url": "http://dashboard.publichealth.lacounty.gov",
+  "tests": [{
+    "id": "b4634507-a353-4a57-9fe8-6229c33d510d",
+    "name": "downloading_data",
+    "commands": [{
+      "id": "72431be9-9995-4d5a-9fb9-3666818002f0",
+      "comment": "",
+      "command": "open",
+      "target": "/covid19_surveillance_dashboard/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "13a9d0e4-5f95-4c37-bb2b-01d1d5077527",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1099x694",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c1f2a199-fc52-460d-9ac2-10b871ccc45b",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "dd8fb3a0-e934-4b0a-841d-9afe33baa1dc",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(5) span",
+      "targets": [
+        ["css=li:nth-child(5) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[5]/a/span", "xpath:idRelative"],
+        ["xpath=//li[5]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Community Case/Death')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b02eac56-2e23-47a6-b9bb-5434d17ae845",
+      "comment": "",
+      "command": "click",
+      "target": "id=download2",
+      "targets": [
+        ["id=download2", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download2", "css:finder"],
+        ["xpath=//a[@id='download2']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-city_case_table']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download2?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[5]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "636ba2e1-81c4-4fe7-aebf-8150a1a69874",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(6) span",
+      "targets": [
+        ["css=li:nth-child(6) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Community Testing')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e3b1f81c-d02b-4356-889d-fc560eef4542",
+      "comment": "",
+      "command": "click",
+      "target": "id=download4",
+      "targets": [
+        ["id=download4", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download4", "css:finder"],
+        ["xpath=//a[@id='download4']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-city_test_table']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download4?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[6]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8cae26d1-a8f0-49a7-b187-19f92cdd8d33",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(7) span",
+      "targets": [
+        ["css=li:nth-child(7) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[7]/a/span", "xpath:idRelative"],
+        ["xpath=//li[7]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Cases/Death by Date')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9f7c6a6e-955a-4370-ae98-d924d82a07c2",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=download3",
+      "targets": [
+        ["id=download3", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download3", "css:finder"],
+        ["xpath=//a[@id='download3']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-date_table']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download3?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[7]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2a48205f-ab18-4693-b75e-728d6e5d5217",
+      "comment": "",
+      "command": "click",
+      "target": "id=download3",
+      "targets": [
+        ["id=download3", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download3", "css:finder"],
+        ["xpath=//a[@id='download3']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-date_table']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download3?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[7]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6911a708-6576-4327-8025-ab87f33c632e",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "id=download3",
+      "targets": [
+        ["id=download3", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download3", "css:finder"],
+        ["xpath=//a[@id='download3']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-date_table']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download3?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[7]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "717a249e-9a97-4326-a822-a7abb7a9ddc7",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(8) span",
+      "targets": [
+        ["css=li:nth-child(8) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[8]/a/span", "xpath:idRelative"],
+        ["xpath=//li[8]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Persons Tested by Date')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "20baa74e-2894-47dc-8ccb-b8c84146d213",
+      "comment": "",
+      "command": "click",
+      "target": "id=download5",
+      "targets": [
+        ["id=download5", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download5", "css:finder"],
+        ["xpath=//a[@id='download5']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-date_table_pt']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download5?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[8]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "26d2f464-fae4-4f6e-9cc8-32b25e4c3684",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(9) span",
+      "targets": [
+        ["css=li:nth-child(9) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[9]/a/span", "xpath:idRelative"],
+        ["xpath=//li[9]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Tests by Date')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b2894cb4-098a-40c9-b4e1-ab78774200ea",
+      "comment": "",
+      "command": "click",
+      "target": "id=download6",
+      "targets": [
+        ["id=download6", "id"],
+        ["linkText=Download this table", "linkText"],
+        ["css=#download6", "css:finder"],
+        ["xpath=//a[@id='download6']", "xpath:attributes"],
+        ["xpath=//div[@id='shiny-tab-date_table_t']/div/div/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'session/f0fe15f54c530fad2777945f775da4fb/download/download6?w=44b98014')]", "xpath:href"],
+        ["xpath=//div[9]/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "8ac9647c-9cc4-40be-9025-8967bec54662",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["b4634507-a353-4a57-9fe8-6229c33d510d"]
+  }],
+  "urls": ["http://dashboard.publichealth.lacounty.gov/"],
+  "plugins": []
+}

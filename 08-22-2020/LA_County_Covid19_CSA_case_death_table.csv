@@ -1,0 +1,333 @@
+"","geo_merge","cases_final","case_rate_final","adj_case_rate_final","deaths_final","death_rate_final","adj_death_rate_final","population"
+"1","City of Agoura Hills",128,613,605,2,10,10,20883
+"2","City of Alhambra",1059,1221,1217,21,24,17,86724
+"3","City of Arcadia",410,710,679,28,48,31,57754
+"4","City of Artesia",273,1625,1579,4,24,15,16795
+"5","City of Avalon",5,129,151,0,0,0,3869
+"6","City of Azusa",1275,2548,2554,15,30,35,50040
+"7","City of Baldwin Park",2437,3174,3149,69,90,104,76769
+"8","City of Bell",1365,3757,3786,35,96,131,36332
+"9","City of Bell Gardens",1652,3836,3872,20,46,74,43071
+"10","City of Bellflower",2027,2608,2588,51,66,74,77735
+"11","City of Beverly Hills",580,1680,1658,10,29,15,34520
+"12","City of Bradbury",13,1216,1445,0,0,0,1069
+"13","City of Burbank",1187,1107,1039,54,50,39,107180
+"14","City of Calabasas",223,917,847,12,49,41,24323
+"15","City of Carson",1520,1620,1573,45,48,38,93846
+"16","City of Cerritos",482,963,1016,13,26,19,50067
+"17","City of Claremont",314,861,894,8,22,13,36484
+"18","City of Commerce",492,3765,3727,4,31,28,13069
+"19","City of Compton",3420,3423,3421,52,52,65,99904
+"20","City of Covina",1157,2360,2341,21,43,39,49032
+"21","City of Cudahy",961,3947,3987,15,62,102,24347
+"22","City of Culver City",352,883,851,29,73,49,39865
+"23","City of Diamond Bar",467,812,794,7,12,8,57515
+"24","City of Downey",3479,3045,2971,75,66,65,114263
+"25","City of Duarte",433,1967,1839,25,114,71,22016
+"26","City of El Monte",3792,3234,3200,122,104,105,117269
+"27","City of El Segundo",110,655,635,1,6,3,16786
+"28","City of Gardena",1023,1669,1653,36,59,41,61310
+"29","City of Glendale",2789,1351,1233,150,73,50,206493
+"30","City of Glendora",1099,2083,1950,57,108,82,52764
+"31","City of Hawaiian Gardens",449,3059,3000,2,14,16,14676
+"32","City of Hawthorne",1673,1884,1861,33,37,43,88787
+"33","City of Hermosa Beach",178,905,869,3,15,20,19670
+"34","City of Hidden Hills",7,370,204,0,0,0,1890
+"35","City of Huntington Park",2457,4131,4113,38,64,83,59484
+"36","City of Industry",29,6636,7118,2,458,556,437
+"37","City of Inglewood",2460,2166,2140,81,71,77,113582
+"38","City of Irwindale",60,4112,4153,2,137,155,1459
+"39","City of La Canada Flintridge",144,696,804,7,34,21,20693
+"40","City of La Habra Heights",32,587,546,0,0,0,5455
+"41","City of La Mirada",733,1478,1402,24,48,34,49599
+"42","City of La Puente",1272,3126,3057,12,29,31,40697
+"43","City of La Verne",378,1136,1182,10,30,16,33282
+"44","City of Lakewood",1056,1314,1315,8,10,8,80362
+"45","City of Lancaster",2627,1626,1646,36,22,28,161570
+"46","City of Lawndale",543,1615,1566,9,27,34,33614
+"47","City of Lomita",209,1008,979,8,39,26,20729
+"48","City of Lynwood",2790,3872,3991,85,118,184,72047
+"49","City of Malibu",91,702,698,3,23,11,12961
+"50","City of Manhattan Beach",296,822,817,4,11,10,35999
+"51","City of Maywood",1215,4332,4499,30,107,162,28049
+"52","City of Monrovia",626,1613,1602,34,88,84,38800
+"53","City of Montebello",1916,2976,2944,41,64,52,64375
+"54","City of Monterey Park",806,1295,1268,24,39,20,62262
+"55","City of Norwalk",2809,2610,2539,58,54,53,107622
+"56","City of Palmdale",3299,2075,2101,46,29,35,158968
+"57","City of Palos Verdes Estates",77,569,548,2,15,7,13522
+"58","City of Paramount",2076,3706,3657,22,39,50,56023
+"59","City of Pico Rivera",2051,3191,3119,60,93,80,64284
+"60","City of Pomona",4633,2971,2945,85,55,65,155931
+"61","City of Rancho Palos Verdes",250,585,606,12,28,13,42747
+"62","City of Redondo Beach",488,710,737,9,13,14,68697
+"63","City of Rolling Hills",5,258,480,0,0,0,1940
+"64","City of Rolling Hills Estates",34,419,558,2,25,13,8113
+"65","City of Rosemead",703,1270,1240,23,42,31,55350
+"66","City of San Dimas",437,1266,1283,10,29,21,34516
+"67","City of San Fernando",743,3019,2998,17,69,86,24612
+"68","City of San Gabriel",499,1218,1126,36,88,61,40954
+"69","City of San Marino",65,490,427,2,15,9,13277
+"70","City of Santa Clarita",2683,1217,1223,41,19,20,220424
+"71","City of Santa Fe Springs",455,2478,2473,5,27,23,18364
+"72","City of Santa Monica",710,768,713,37,40,28,92446
+"73","City of Sierra Madre",63,573,531,3,27,17,10989
+"74","City of Signal Hill",221,1873,1909,1,8,6,11797
+"75","City of South El Monte",686,3285,3267,12,57,64,20885
+"76","City of South Gate",3842,3914,3848,56,57,74,98155
+"77","City of South Pasadena",237,910,858,26,100,81,26053
+"78","City of Temple City",455,1248,1126,40,110,70,36455
+"79","City of Torrance",1201,805,778,61,41,29,149268
+"80","City of Vernon",9,4306,4463,0,0,0,209
+"81","City of Walnut",233,763,773,2,7,4,30532
+"82","City of West Covina",2444,2258,2212,48,44,38,108235
+"83","City of West Hollywood",470,1272,1148,5,14,9,36951
+"84","City of Westlake Village",24,287,348,0,0,0,8360
+"85","City of Whittier",1874,2143,2100,24,27,26,87432
+"86","Los Angeles - Adams-Normandie",226,2755,2719,3,37,38,8202
+"87","Los Angeles - Alsace",300,2411,2315,2,16,24,12445
+"88","Los Angeles - Angeles National Forest",2,5000,1576,0,0,0,40
+"89","Los Angeles - Angelino Heights",55,2198,2165,1,40,38,2502
+"90","Los Angeles - Arleta",1188,3456,3368,21,61,73,34370
+"91","Los Angeles - Atwater Village",197,1343,1302,5,34,27,14666
+"92","Los Angeles - Baldwin Hills",536,1722,1718,26,84,66,31125
+"93","Los Angeles - Bel Air",64,759,806,0,0,0,8429
+"94","Los Angeles - Beverly Crest",98,782,906,2,16,9,12525
+"95","Los Angeles - Beverlywood",131,994,1047,0,0,0,13173
+"96","Los Angeles - Boyle Heights",3784,4355,4338,54,62,72,86884
+"97","Los Angeles - Brentwood",236,762,710,3,10,7,30955
+"98","Los Angeles - Brookside",3,516,485,0,0,0,581
+"99","Los Angeles - Cadillac-Corning",106,1489,1448,1,14,27,7121
+"100","Los Angeles - Canoga Park",1535,2351,2323,50,77,98,65289
+"101","Los Angeles - Carthay",189,1316,1628,13,91,43,14363
+"102","Los Angeles - Central",1845,4732,4799,37,95,131,38992
+"103","Los Angeles - Century City",106,829,944,0,0,0,12792
+"104","Los Angeles - Century Palms/Cove",1314,3891,3976,18,53,74,33766
+"105","Los Angeles - Chatsworth",573,1546,1532,34,92,58,37061
+"106","Los Angeles - Cheviot Hills",58,632,723,2,22,10,9171
+"107","Los Angeles - Chinatown",100,1247,1229,2,25,14,8021
+"108","Los Angeles - Cloverdale/Cochran",252,1732,1662,5,34,37,14553
+"109","Los Angeles - Country Club Park",263,1736,1597,22,145,108,15153
+"110","Los Angeles - Crenshaw District",263,1902,1911,3,22,14,13829
+"111","Los Angeles - Crestview",168,1478,1445,19,167,151,11368
+"112","Los Angeles - Del Rey",300,1002,1000,9,30,23,29936
+"113","Los Angeles - Downtown",632,2298,2271,13,47,38,27507
+"114","Los Angeles - Eagle Rock",562,1420,1373,17,43,30,39589
+"115","Los Angeles - East Hollywood",539,1840,1710,43,147,126,29287
+"116","Los Angeles - Echo Park",197,1382,1374,4,28,27,14256
+"117","Los Angeles - El Sereno",1050,2511,2467,29,69,65,41808
+"118","Los Angeles - Elysian Park",87,1523,1440,0,0,0,5712
+"119","Los Angeles - Elysian Valley",224,2202,2131,3,30,27,10171
+"120","Los Angeles - Encino",475,1052,1099,16,35,17,45172
+"121","Los Angeles - Exposition",70,2105,1965,1,30,29,3326
+"122","Los Angeles - Exposition Park",1133,2522,2589,19,42,56,44917
+"123","Los Angeles - Faircrest Heights",26,722,651,2,56,46,3600
+"124","Los Angeles - Figueroa Park Square",276,3165,3147,3,34,35,8721
+"125","Los Angeles - Florence-Firestone",1991,4196,4239,23,48,72,47445
+"126","Los Angeles - Glassell Park",580,1835,1786,13,41,34,31604
+"127","Los Angeles - Gramercy Place",208,1932,1987,4,37,24,10764
+"128","Los Angeles - Granada Hills",998,1715,1619,61,105,75,58191
+"129","Los Angeles - Green Meadows",826,3841,3874,10,46,64,21505
+"130","Los Angeles - Hancock Park",191,1121,1148,3,18,17,17039
+"131","Los Angeles - Harbor City",422,1452,1440,9,31,25,29070
+"132","Los Angeles - Harbor Gateway",820,1881,1838,12,28,31,43600
+"133","Los Angeles - Harbor Pines",18,747,850,0,0,0,2409
+"134","Los Angeles - Harvard Heights",495,2745,2682,23,128,150,18035
+"135","Los Angeles - Harvard Park",1379,3635,3594,17,45,49,37935
+"136","Los Angeles - Highland Park",929,1920,1880,18,37,41,48391
+"137","Los Angeles - Historic Filipinotown",374,2696,2518,13,94,85,13870
+"138","Los Angeles - Hollywood",982,1439,1295,10,15,15,68254
+"139","Los Angeles - Hollywood Hills",245,832,927,6,20,19,29434
+"140","Los Angeles - Hyde Park",691,2421,2376,14,49,41,28541
+"141","Los Angeles - Jefferson Park",226,2799,2767,0,0,0,8073
+"142","Los Angeles - Koreatown",998,1931,1866,25,48,47,51693
+"143","Los Angeles - Lafayette Square",74,1623,1591,3,66,64,4559
+"144","Los Angeles - Lake Balboa",817,1936,1925,14,33,35,42206
+"145","Los Angeles - Lakeview Terrace",470,3579,3563,21,160,184,13133
+"146","Los Angeles - Leimert Park",260,1707,1702,5,33,23,15235
+"147","Los Angeles - Lincoln Heights",920,2822,2761,45,138,117,32597
+"148","Los Angeles - Little Armenia",355,4424,3808,51,636,517,8025
+"149","Los Angeles - Little Bangladesh",419,1478,1469,5,18,19,28343
+"150","Los Angeles - Little Tokyo",56,1787,2028,2,64,21,3133
+"151","Los Angeles - Longwood",106,2463,2393,0,0,0,4304
+"152","Los Angeles - Los Feliz",169,782,821,2,9,6,21608
+"153","Los Angeles - Manchester Square",157,1839,1836,1,12,9,8536
+"154","Los Angeles - Mandeville Canyon",18,576,866,0,0,0,3124
+"155","Los Angeles - Mar Vista",271,638,647,5,12,9,42471
+"156","Los Angeles - Marina Peninsula",30,688,733,0,0,0,4360
+"157","Los Angeles - Melrose",1627,2094,2058,58,75,76,77696
+"158","Los Angeles - Mid-city",244,1623,1575,21,140,127,15030
+"159","Los Angeles - Miracle Mile",143,795,732,5,28,25,17985
+"160","Los Angeles - Mission Hills",621,2574,2495,19,79,73,24124
+"161","Los Angeles - Mt. Washington",468,1938,1896,13,54,51,24145
+"162","Los Angeles - North Hills",1501,2438,2398,40,65,74,61575
+"163","Los Angeles - North Hollywood",2977,1966,1878,50,33,37,151421
+"164","Los Angeles - Northridge",1163,1666,1631,40,57,47,69797
+"165","Los Angeles - Pacific Palisades",108,507,586,4,19,9,21291
+"166","Los Angeles - Pacoima",2815,3657,3658,39,51,67,76979
+"167","Los Angeles - Palisades Highlands",20,520,588,0,0,0,3846
+"168","Los Angeles - Palms",479,1092,1213,28,64,84,43877
+"169","Los Angeles - Panorama City",2353,3127,3151,83,110,147,75250
+"170","Los Angeles - Park La Brea",87,641,539,1,7,8,13580
+"171","Los Angeles - Pico-Union",1590,3800,3822,85,203,240,41842
+"172","Los Angeles - Playa Del Rey",24,751,988,0,0,0,3196
+"173","Los Angeles - Playa Vista",113,1032,1003,0,0,0,10947
+"174","Los Angeles - Porter Ranch",298,837,889,6,17,10,35588
+"175","Los Angeles - Rancho Park",68,1037,1220,1,15,11,6560
+"176","Los Angeles - Regent Square",25,899,865,0,0,0,2780
+"177","Los Angeles - Reseda",1835,2395,2327,69,90,81,76617
+"178","Los Angeles - Reseda Ranch",94,2028,1922,0,0,0,4636
+"179","Los Angeles - Reynier Village",30,710,762,0,0,0,4228
+"180","Los Angeles - San Pedro",1729,2216,2205,25,32,29,78038
+"181","Los Angeles - Shadow Hills",53,1193,1408,0,0,0,4442
+"182","Los Angeles - Sherman Oaks",846,970,1033,18,21,18,87254
+"183","Los Angeles - Silverlake",554,1257,1268,16,36,32,44083
+"184","Los Angeles - South Carthay",97,916,1091,1,9,6,10595
+"185","Los Angeles - South Park",1778,4684,4768,26,68,99,37961
+"186","Los Angeles - St Elmo Village",126,2749,2938,8,175,264,4584
+"187","Los Angeles - Studio City",211,940,1044,10,45,39,22440
+"188","Los Angeles - Sun Valley",1271,2422,2351,21,40,42,52483
+"189","Los Angeles - Sunland",373,1828,1727,26,127,91,20408
+"190","Los Angeles - Sycamore Square",5,773,783,0,0,0,647
+"191","Los Angeles - Sylmar",2760,3350,3326,73,89,107,82398
+"192","Los Angeles - Tarzana",529,1713,1570,37,120,75,30876
+"193","Los Angeles - Temple-Beaudry",1066,2700,2613,24,61,69,39482
+"194","Los Angeles - Thai Town",137,1397,1325,0,0,0,9809
+"195","Los Angeles - Toluca Lake",86,988,1198,0,0,0,8704
+"196","Los Angeles - Toluca Terrace",17,1302,1390,1,77,72,1306
+"197","Los Angeles - Toluca Woods",15,807,796,0,0,0,1858
+"198","Los Angeles - Tujunga",350,1259,1227,12,43,37,27810
+"199","Los Angeles - University Hills",49,1429,1427,1,29,19,3429
+"200","Los Angeles - University Park",653,2378,3380,18,66,118,27456
+"201","Los Angeles - Valley Glen",499,1662,1615,17,57,58,30016
+"202","Los Angeles - Valley Village",439,1776,1721,25,101,85,24720
+"203","Los Angeles - Van Nuys",2396,2571,2590,69,74,91,93194
+"204","Los Angeles - Venice",249,735,937,2,6,6,33885
+"205","Los Angeles - Vermont Knolls",638,3709,3660,13,76,93,17200
+"206","Los Angeles - Vermont Square",294,3840,3823,3,39,36,7657
+"207","Los Angeles - Vermont Vista",1655,4018,4103,24,58,87,41186
+"208","Los Angeles - Vernon Central",2607,5014,5120,35,67,99,51998
+"209","Los Angeles - Victoria Park",188,2238,2156,3,36,29,8399
+"210","Los Angeles - View Heights",40,1083,1066,2,54,42,3694
+"211","Los Angeles - Watts",1618,3792,4000,20,47,84,42674
+"212","Los Angeles - Wellington Square",105,2136,2131,0,0,0,4915
+"213","Los Angeles - West Adams",765,2769,2712,34,123,127,27630
+"214","Los Angeles - West Hills",440,1085,1078,30,74,45,40545
+"215","Los Angeles - West Los Angeles",433,1150,1151,13,35,37,37636
+"216","Los Angeles - West Vernon",1945,3626,3611,39,73,95,53644
+"217","Los Angeles - Westchester",344,667,643,13,25,22,51603
+"218","Los Angeles - Westlake",2149,3621,3671,132,222,257,59355
+"219","Los Angeles - Westwood",287,530,480,6,11,10,54109
+"220","Los Angeles - Wholesale District",2094,5796,5030,23,64,77,36129
+"221","Los Angeles - Wilmington",1459,2583,2583,12,21,29,56487
+"222","Los Angeles - Wilshire Center",971,1935,1889,32,64,62,50170
+"223","Los Angeles - Winnetka",1050,2028,1943,15,29,27,51786
+"224","Los Angeles - Woodland Hills",750,1102,1095,26,38,24,68055
+"225","Unincorporated - Acton",55,690,778,2,25,18,7971
+"226","Unincorporated - Agua Dulce",24,577,631,0,0,0,4158
+"227","Unincorporated - Altadena",542,1243,1295,13,30,23,43620
+"228","Unincorporated - Anaverde",14,928,1132,0,0,0,1508
+"229","Unincorporated - Angeles National Forest",5,402,411,0,0,0,1245
+"230","Unincorporated - Arcadia",78,977,999,2,25,18,7981
+"231","Unincorporated - Athens Village",201,4105,4141,9,184,186,4897
+"232","Unincorporated - Athens-Westmont",1320,3110,3124,23,54,58,42442
+"233","Unincorporated - Avocado Heights",230,3395,3363,2,30,34,6775
+"234","Unincorporated - Azusa",419,2631,2540,2,13,17,15923
+"235","Unincorporated - Bassett",550,3712,3665,9,61,63,14817
+"236","Unincorporated - Bouquet Canyon",6,559,800,1,93,82,1073
+"237","Unincorporated - Bradbury",4,3704,303,1,926,255,108
+"238","Unincorporated - Canyon Country",105,1359,1425,0,0,0,7728
+"239","Unincorporated - Castaic",1880,6914,6298,4,15,14,27191
+"240","Unincorporated - Cerritos",13,2215,2116,0,0,0,587
+"241","Unincorporated - Claremont",17,2422,3063,0,0,0,702
+"242","Unincorporated - Covina",364,2164,2092,5,30,28,16819
+"243","Unincorporated - Covina (Charter Oak)",260,1978,1970,1,8,10,13144
+"244","Unincorporated - Del Aire",62,1411,1383,2,46,44,4393
+"245","Unincorporated - Del Rey",3,943,1312,0,0,0,318
+"246","Unincorporated - Del Sur",8,331,351,1,41,20,2415
+"247","Unincorporated - Desert View Highlands",38,1524,1454,1,40,24,2493
+"248","Unincorporated - Duarte",109,2462,2441,2,45,52,4428
+"249","Unincorporated - East Covina",4,1216,1379,0,0,0,329
+"250","Unincorporated - East La Mirada",85,1606,1614,0,0,0,5292
+"251","Unincorporated - East Los Angeles",5417,4324,4325,82,65,76,125269
+"252","Unincorporated - East Pasadena",63,984,941,1,16,9,6403
+"253","Unincorporated - East Rancho Dominguez",561,3665,3619,10,65,75,15308
+"254","Unincorporated - East Whittier",68,1282,1275,0,0,0,5306
+"255","Unincorporated - El Camino Village",131,1490,1485,3,34,24,8791
+"256","Unincorporated - El Monte",6,4138,6162,0,0,0,145
+"257","Unincorporated - Elizabeth Lake",6,361,406,0,0,0,1661
+"258","Unincorporated - Florence-Firestone",2961,4576,4625,40,62,77,64705
+"259","Unincorporated - Glendora",9,1364,1690,0,0,0,660
+"260","Unincorporated - Hacienda Heights",857,1532,1519,9,16,11,55926
+"261","Unincorporated - Hawthorne",54,2148,2038,0,0,0,2514
+"262","Unincorporated - Hi Vista",5,455,528,0,0,0,1098
+"263","Unincorporated - Kagel/Lopez Canyons",29,2054,2633,1,71,113,1412
+"264","Unincorporated - La Crescenta-Montrose",138,697,705,1,5,3,19801
+"265","Unincorporated - La Rambla",75,3614,2911,11,530,348,2075
+"266","Unincorporated - La Verne",28,1373,1573,0,0,0,2040
+"267","Unincorporated - Ladera Heights",81,1146,1108,3,42,19,7071
+"268","Unincorporated - Lake Hughes",2,299,328,0,0,0,668
+"269","Unincorporated - Lake Los Angeles",186,1431,1417,3,23,34,12994
+"270","Unincorporated - Lake Manor",21,1278,1315,0,0,0,1643
+"271","Unincorporated - Lennox",606,2688,2684,4,18,34,22542
+"272","Unincorporated - Leona Valley",16,914,979,0,0,0,1751
+"273","Unincorporated - Littlerock",65,1617,1682,0,0,0,4021
+"274","Unincorporated - Littlerock/Juniper Hills",7,540,766,0,0,0,1297
+"275","Unincorporated - Littlerock/Pearblossom",72,2017,2072,0,0,0,3569
+"276","Unincorporated - Llano",3,342,355,0,0,0,877
+"277","Unincorporated - Marina del Rey",64,680,527,1,11,13,9411
+"278","Unincorporated - Monrovia",69,1778,1871,0,0,0,3881
+"279","Unincorporated - Newhall",6,2727,2283,0,0,0,220
+"280","Unincorporated - North Lancaster",18,1502,1967,0,0,0,1198
+"281","Unincorporated - North Whittier",174,2081,2067,9,108,95,8360
+"282","Unincorporated - Northeast San Gabriel",290,1207,1243,8,33,29,24036
+"283","Unincorporated - Palmdale",20,2375,2606,0,0,0,842
+"284","Unincorporated - Palos Verdes Peninsula",3,483,729,0,0,0,621
+"285","Unincorporated - Pearblossom/Llano",19,971,863,1,51,20,1956
+"286","Unincorporated - Pellissier Village",24,3877,3840,0,0,0,619
+"287","Unincorporated - Pomona",11,568,1227,1,52,86,1938
+"288","Unincorporated - Quartz Hill",135,1046,999,10,77,58,12906
+"289","Unincorporated - Rancho Dominguez",68,2555,2505,2,75,35,2661
+"290","Unincorporated - Roosevelt",7,752,717,0,0,0,931
+"291","Unincorporated - Rosewood",16,1244,1527,0,0,0,1286
+"292","Unincorporated - Rosewood/East Gardena",14,1174,1074,0,0,0,1193
+"293","Unincorporated - Rosewood/West Rancho Dominguez",80,2380,2445,0,0,0,3361
+"294","Unincorporated - Rowland Heights",569,1115,1120,11,22,15,51022
+"295","Unincorporated - San Jose Hills",618,3056,3023,8,40,39,20221
+"296","Unincorporated - San Pasqual",9,442,468,0,0,0,2035
+"297","Unincorporated - Sand Canyon",5,1623,4904,0,0,0,308
+"298","Unincorporated - Santa Catalina Island",18,6742,9453,0,0,0,267
+"299","Unincorporated - Santa Monica Mountains",97,521,610,1,5,2,18621
+"300","Unincorporated - Saugus",22,14194,14290,0,0,0,155
+"301","Unincorporated - Saugus/Canyon Country",1,281,538,0,0,0,356
+"302","Unincorporated - South Antelope Valley",1,220,256,0,0,0,455
+"303","Unincorporated - South El Monte",73,4067,3902,0,0,0,1795
+"304","Unincorporated - South San Gabriel",161,1820,1744,5,57,40,8848
+"305","Unincorporated - South Whittier",1456,2459,2377,26,44,48,59222
+"306","Unincorporated - Southeast Antelope Valley",13,1665,1845,0,0,0,781
+"307","Unincorporated - Stevenson Ranch",140,668,665,2,10,12,20966
+"308","Unincorporated - Sun Village",132,2187,2286,1,17,11,6036
+"309","Unincorporated - Sunrise Village",40,3086,3311,0,0,0,1296
+"310","Unincorporated - Twin Lakes/Oat Mountain",10,603,623,1,60,78,1658
+"311","Unincorporated - Val Verde",55,1662,1568,1,30,50,3309
+"312","Unincorporated - Valencia",39,1270,2094,1,33,258,3072
+"313","Unincorporated - Valinda",648,2773,2712,7,30,32,23371
+"314","Unincorporated - View Park/Windsor Hills",131,1126,1192,3,26,10,11635
+"315","Unincorporated - Walnut Park",595,3686,3640,10,62,69,16143
+"316","Unincorporated - West Antelope Valley",4,265,284,0,0,0,1511
+"317","Unincorporated - West Carson",333,1508,1350,27,122,73,22086
+"318","Unincorporated - West LA",41,4307,4097,2,210,67,952
+"319","Unincorporated - West Puente Valley",330,3355,3303,2,20,23,9835
+"320","Unincorporated - West Rancho Dominguez",20,1472,1397,3,221,184,1359
+"321","Unincorporated - West Whittier/Los Nietos",840,3120,3046,11,41,41,26925
+"322","Unincorporated - Westfield/Academy Hills",4,308,402,0,0,0,1300
+"323","Unincorporated - Westhills",9,1073,1596,0,0,0,839
+"324","Unincorporated - White Fence Farms",38,1032,1097,0,0,0,3683
+"325","Unincorporated - Whittier",54,1427,1346,1,26,11,3784
+"326","Unincorporated - Willowbrook",1261,3612,3647,17,49,57,34913
+"327","Unincorporated - Wiseburn",107,1775,1672,1,17,21,6027
+"328","Unincorporated - East Lancaster",0,0,0,0,0,0,114
+"329","Unincorporated - Harbor Gateway",0,0,0,0,0,0,1
+"330","Unincorporated - La Habra Heights",0,0,0,0,0,0,676
+"331","Unincorporated - Placerita Canyon",0,0,0,0,0,0,460
+"332","Unincorporated - Whittier Narrows",0,0,0,0,0,0,12
