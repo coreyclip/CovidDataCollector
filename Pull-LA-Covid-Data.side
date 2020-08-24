@@ -195,6 +195,136 @@
       ],
       "value": ""
     }]
+  }, {
+    "id": "931da1ed-abbe-4aa5-841a-8e5c43cdb220",
+    "name": "Get_html_table",
+    "commands": [{
+      "id": "55253c9c-1c78-43c7-b214-fdf1f96912d4",
+      "comment": "",
+      "command": "open",
+      "target": "/covid19_surveillance_dashboard/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5d6c09b2-89cf-4228-9f0b-69adc5680337",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1048",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0cb2b395-5b0c-426a-84a9-65176380aaf4",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "8f45c6bb-d7b5-4286-a09d-13ffc9622328",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(5) span",
+      "targets": [
+        ["css=li:nth-child(5) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[5]/a/span", "xpath:idRelative"],
+        ["xpath=//li[5]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Community Case/Death')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "eb013e9d-1db5-4784-8607-70ff0136ec18",
+      "comment": "",
+      "command": "click",
+      "target": "name=DataTables_Table_0_length",
+      "targets": [
+        ["name=DataTables_Table_0_length", "name"],
+        ["css=label > select", "css:finder"],
+        ["xpath=//select[@name='DataTables_Table_0_length']", "xpath:attributes"],
+        ["xpath=//div[@id='DataTables_Table_0_length']/label/select", "xpath:idRelative"],
+        ["xpath=//label/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "22bb6eed-0312-49df-8597-ddb43033e034",
+      "comment": "",
+      "command": "select",
+      "target": "name=DataTables_Table_0_length",
+      "targets": [],
+      "value": "label=All"
+    }, {
+      "id": "fb3e350f-859c-404e-b264-53848c02e781",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(3)",
+      "targets": [
+        ["css=option:nth-child(3)", "css:finder"],
+        ["xpath=//option[@value='-1']", "xpath:attributes"],
+        ["xpath=//div[@id='DataTables_Table_0_length']/label/select/option[3]", "xpath:idRelative"],
+        ["xpath=//option[3]", "xpath:position"],
+        ["xpath=//option[contains(.,'All')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "959cef04-5d25-4a93-a098-704766aa8138",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "63dd08ce-5ff4-4ca9-a478-92b121a2bae8",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(6) span",
+      "targets": [
+        ["css=li:nth-child(6) span", "css:finder"],
+        ["xpath=//section[@id='sidebarItemExpanded']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Table: Community Testing')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "771c00e8-0f62-4781-81ad-e41f94b85cf4",
+      "comment": "",
+      "command": "click",
+      "target": "name=DataTables_Table_1_length",
+      "targets": [
+        ["name=DataTables_Table_1_length", "name"],
+        ["css=#DataTables_Table_1_length select", "css:finder"],
+        ["xpath=//select[@name='DataTables_Table_1_length']", "xpath:attributes"],
+        ["xpath=//div[@id='DataTables_Table_1_length']/label/select", "xpath:idRelative"],
+        ["xpath=//div[6]/div/div/div/div[2]/div/div/div/label/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bea9a802-9560-4f03-a617-7e729c853c85",
+      "comment": "",
+      "command": "select",
+      "target": "name=DataTables_Table_1_length",
+      "targets": [],
+      "value": "label=All"
+    }, {
+      "id": "33d5e6c3-0d12-497c-9eda-9ec3b7fa48f5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#DataTables_Table_1_length option:nth-child(3)",
+      "targets": [
+        ["css=#DataTables_Table_1_length option:nth-child(3)", "css:finder"],
+        ["xpath=(//option[@value='-1'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='DataTables_Table_1_length']/label/select/option[3]", "xpath:idRelative"],
+        ["xpath=//div[6]/div/div/div/div[2]/div/div/div/label/select/option[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dc166232-643d-493e-8198-eb258470bb67",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }]
   }],
   "suites": [{
     "id": "8ac9647c-9cc4-40be-9025-8967bec54662",
