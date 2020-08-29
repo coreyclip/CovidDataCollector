@@ -1,5 +1,5 @@
-,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Population,geo_merge,persons_tested_final,testing_rate_final,adj_testing_rate_final,persons_tested_pos_final,pos_testing_rate_final,adj_pos_testing_rate_final,population
-08-29-2020,135,1160,1218,3,26,10,11635.0,,,,,,,,
-08-22-2020,,,,,,,,,2711.0,23300.0,23167.0,130.0,1117.0,1189.0,11635.0
-08-19-2020,,,,,,,,,2711.0,23300.0,23167.0,130.0,1117.0,1189.0,11635.0
-08-27-2020,134,1152,1213,3,26,10,11635,,2845.0,24452.0,24348.0,133.0,1143.0,1204.0,11635.0
+,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Population,persons_tested_final,testing_rate_final,adj_testing_rate_final,persons_tested_pos_final,pos_testing_rate_final,adj_pos_testing_rate_final,population
+2020-08-29,135,1160,1218,3,26,10,11635.0,,,,,,,
+2020-08-22,,,,,,,,2711.0,23300.0,23167.0,130.0,1117.0,1189.0,11635.0
+2020-08-19,,,,,,,,2711.0,23300.0,23167.0,130.0,1117.0,1189.0,11635.0
+2020-08-27,134,1152,1213,3,26,10,11635,2845.0,24452.0,24348.0,133.0,1143.0,1204.0,11635.0
