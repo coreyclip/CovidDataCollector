@@ -18,3 +18,7 @@ Next we have to figure out how to properly take this data and upload it to googl
 Here we have to put some thought into a data schema 
 
 once these parts are finished, we then look at a proper system for setting these to timers.
+
+## Data Section
+**data/scraped_data** - raw data scraped from the LA County Public Health Dashboard organized by date scraped
+**data/parsed_data** - data reorganized by community, reindexed by  
