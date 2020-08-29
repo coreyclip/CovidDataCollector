@@ -65,7 +65,10 @@ try:
     driver.find_element(By.NAME, "DataTables_Table_1_length").click()
     dropdown = driver.find_element(By.NAME, "DataTables_Table_1_length")
     time.sleep(10)
-    dropdown.find_element(By.XPATH, "//option[. = 'All']").click()
+    try:
+        dropdown.find_element(By.XPATH, "//option[. = 'All']").click()
+    except:
+        pass
     time.sleep(2)
     driver.find_element(By.CSS_SELECTOR, "#DataTables_Table_1_length option:nth-child(3)").click()
     time.sleep(5)
