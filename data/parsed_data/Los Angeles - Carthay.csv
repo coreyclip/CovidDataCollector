@@ -1,0 +1,5 @@
+,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Population,geo_merge,persons_tested_final,testing_rate_final,adj_testing_rate_final,persons_tested_pos_final,pos_testing_rate_final,adj_pos_testing_rate_final,population
+08-29-2020,194,1351,1675,14,97,46,14363.0,,,,,,,,
+08-22-2020,,,,,,,,,4078.0,28392.0,38039.0,183.0,1274.0,1531.0,14363.0
+08-19-2020,,,,,,,,,4078.0,28392.0,38039.0,183.0,1274.0,1531.0,14363.0
+08-27-2020,192,1337,1664,14,97,46,14363,,4350.0,30286.0,41225.0,185.0,1288.0,1565.0,14363.0
