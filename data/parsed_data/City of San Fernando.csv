@@ -1,5 +1,7 @@
-,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Population,persons_tested_final,testing_rate_final,adj_testing_rate_final,persons_tested_pos_final,pos_testing_rate_final,adj_pos_testing_rate_final,population
-2020-08-29,792,3218,3196,18,73,90,24612.0,,,,,,,
-2020-08-22,,,,,,,,5570.0,22631.0,22309.0,753.0,3059.0,3037.0,24612.0
+Date,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Population,persons_tested_final,testing_rate_final,adj_testing_rate_final,persons_tested_pos_final,pos_testing_rate_final,adj_pos_testing_rate_final,population
 2020-08-19,,,,,,,,5570.0,22631.0,22309.0,753.0,3059.0,3037.0,24612.0
+2020-08-22,,,,,,,,5570.0,22631.0,22309.0,753.0,3059.0,3037.0,24612.0
 2020-08-27,787,3198,3178,18,73,90,24612,5869.0,23846.0,23540.0,802.0,3259.0,3237.0,24612.0
+2020-08-29,792,3218,3196,18,73,90,24612.0,,,,,,,
+2020-08-30,808,3283,3256,18,73,90,24612.0,,,,,,,
+2020-08-31,,,,,,,,6039.0,24537.0,24226.0,829.0,3368.0,3340.0,24612.0
