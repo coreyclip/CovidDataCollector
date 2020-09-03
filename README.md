@@ -22,3 +22,6 @@ once these parts are finished, we then look at a proper system for setting these
 ## Data Section
 **data/scraped_data** - raw data scraped from the LA County Public Health Dashboard organized by date scraped
 **data/parsed_data** - data reorganized by community, reindexed by  
+
+## Helpful Docs 
+https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
