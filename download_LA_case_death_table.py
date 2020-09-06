@@ -47,7 +47,7 @@ try:
     time.sleep(5)
     dropdown.find_element(By.XPATH, "//option[. = 'All']").click()
     time.sleep(2)
-    wait_for("option:nth-child(3)", "css", 10)
+    wait_for("option:nth-child(3)", "css")
     driver.find_element(By.CSS_SELECTOR, "option:nth-child(3)").click()
     time.sleep(5)
     table = driver.find_element(By.ID, "DataTables_Table_0").get_attribute("outerHTML")
