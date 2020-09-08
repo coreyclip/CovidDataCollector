@@ -5,3 +5,8 @@ Date,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Po
 2020-08-29,1426,3925,3949,37,102,140,36332.0,,,,,,,
 2020-08-30,1434,3947,3970,37,102,140,36332.0,,,,,,,
 2020-08-31,,,,,,,,8048.0,22151.0,22109.0,1423.0,3917.0,3917.0,36332.0
+2020-09-01,"{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': 36332.0}",,,,,,,
+2020-09-03,"{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': 36332.0}",,,,,,,
+2020-09-04,"{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': nan}","{('City of Bell',): nan, 'City of Bell': 36332.0}",,,,,,,
+2020-09-05,,,,,,,,8217.0,22616.0,22571.0,1458.0,4013.0,4015.0,36332.0
+2020-09-07,{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan},{'City of Bell': nan}

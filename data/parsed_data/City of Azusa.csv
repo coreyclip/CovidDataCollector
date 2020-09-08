@@ -5,3 +5,8 @@ Date,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Po
 2020-08-29,1395,2788,2800,17,34,40,50040.0,,,,,,,
 2020-08-30,1409,2816,2829,17,34,40,50040.0,,,,,,,
 2020-08-31,,,,,,,,8999.0,17984.0,18133.0,1394.0,2786.0,2806.0,50040.0
+2020-09-01,"{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': 50040.0}",,,,,,,
+2020-09-03,"{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': 50040.0}",,,,,,,
+2020-09-04,"{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': nan}","{('City of Azusa',): nan, 'City of Azusa': 50040.0}",,,,,,,
+2020-09-05,,,,,,,,9284.0,18553.0,18695.0,1428.0,2854.0,2873.0,50040.0
+2020-09-07,{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan},{'City of Azusa': nan}
