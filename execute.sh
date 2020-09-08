@@ -10,6 +10,7 @@ then
     echo "CASE_DEATH_DOWNLOAD_STATUS: ${CASE_DEATH_DOWNLOAD_STATUS}"
     exit 1
 else
+    git pull
     python transform_upload_to_gsheets.py
     git add .
     git commit -m 'data pull' 
