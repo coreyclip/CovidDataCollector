@@ -1,4 +1,5 @@
 venv/
+.env
 *.json
 .idea/*
 zorgi/*

@@ -23,5 +23,9 @@ once these parts are finished, we then look at a proper system for setting these
 **data/scraped_data** - raw data scraped from the LA County Public Health Dashboard organized by date scraped
 **data/parsed_data** - data reorganized by community, reindexed by  
 
+## Community Whitelisting 
+in the script `transform_upload_to_gsheets.py` set the variable city_whitelist to include communities that the
+script will specifcally seek out to process for google sheet uploads
+
 ## Helpful Docs 
 https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
