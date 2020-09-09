@@ -1,4 +1,5 @@
 source venv/bin/activate
+pip install -r requirements.txt
 echo "$(date +"%D %T") downloading LA CSA Testing Data"
 CSA_RESPONSE=$(python download_LA_CSA_testing_table.py)
 echo "$(date +"%D %T") downloading LA case death Data"

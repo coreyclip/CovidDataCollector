@@ -11,3 +11,4 @@ Date,Cases,Case Rate,Adjusted Case Rate,Deaths,Death Rate,Adjusted Death Rate,Po
 2020-09-05,,,,,,,,6189.0,22065.0,22363.0,1355.0,4831.0,5033.0,28049.0
 2020-09-07,{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan},{'City of Maywood': nan}
 2020-09-08,1359,4845,5029,32,114,172,28049.0,,,,,,,
+2020-09-09,1359,4845,5026,32,114,172,28049.0,,,,,,,
