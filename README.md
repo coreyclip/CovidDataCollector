@@ -29,3 +29,6 @@ script will specifcally seek out to process for google sheet uploads
 
 ## Helpful Docs 
 https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
+
+accessing external APIs with google sheets:
+https://developers.google.com/apps-script/guides/services/external
