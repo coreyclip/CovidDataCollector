@@ -111,7 +111,11 @@ for key, df in cities_dfs.items():
     df.to_csv(path)
     
 gc = pygsheets.authorize(service_file=os.getenv('GOOGLE_CRED_JSON'))
-# gc.create('LA County Covid-19 Community Level Data')
+try:
+    gc.create('LA County Covid-19 Community Level Data')
+except Exception as e:
+    print(str(e))
+    pass
 sh = gc.open(os.getenv('GOOGLE_SHEET_TITLE'))
 
 for city, i in zip(city_whitelist, range(0, len(city_whitelist))):
